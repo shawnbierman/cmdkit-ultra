@@ -27,7 +27,7 @@ Window snapping uses macOS Accessibility, which macOS describes as letting the a
 
 ## Requirements
 
-- macOS 14 Sonoma or later, on a Mac with Apple silicon.
+- macOS 14 Sonoma or later, on Apple silicon or Intel (a single Universal app).
 - Updates arrive in the app through **Check for Updates…** in the menu.
 
 ## About this repository
